@@ -47,63 +47,6 @@ export const recipes = [
     ],
   },
   {
-    name: "Overnight Oats",
-    servings: 1,
-    ingredients: [
-      {
-        name: "Rolled oats",
-        quantity: 40,
-        unit: "g",
-        macros_per_unit: {
-          calories: 3.75,
-          protein: 0.125,
-          carbs: 0.675,
-          fat: 0.075,
-        },
-      },
-      {
-        name: "Chocolate protein powder",
-        quantity: 30,
-        unit: "g",
-        macros_per_unit: {
-          calories: 3.7,
-          protein: 0.833,
-          carbs: 0.067,
-          fat: 0.067,
-        },
-      },
-      {
-        name: "Whole milk",
-        quantity: 180,
-        unit: "ml",
-        macros_per_unit: {
-          calories: 0.667,
-          protein: 0.033,
-          carbs: 0.05,
-          fat: 0.039,
-        },
-      },
-      {
-        name: "Peanut butter",
-        quantity: 8,
-        unit: "g",
-        macros_per_unit: { calories: 6, protein: 0.25, carbs: 0.188, fat: 0.5 },
-      },
-      {
-        name: "Chia seeds",
-        quantity: 5,
-        unit: "g",
-        macros_per_unit: { calories: 5, protein: 0.2, carbs: 0.4, fat: 0.4 },
-      },
-    ],
-    instructions: [
-      "Combine oats, milk, and chia seeds in a bowl or jar.",
-      "Mix in protein powder until smooth.",
-      "Add peanut butter and stir again.",
-      "Refrigerate overnight or for at least 2 hours before eating.",
-    ],
-  },
-  {
     name: "Beef Curry with White Rice",
     servings: 2,
     ingredients: [
