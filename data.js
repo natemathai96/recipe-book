@@ -192,7 +192,7 @@ export const recipes = [
     ],
   },
   {
-    name: "Chicken Curry with White Rice",
+    name: "Chicken Curry and White Rice",
     servings: 2,
     instructions: [
       "Dice chicken thighs and season lightly.",
